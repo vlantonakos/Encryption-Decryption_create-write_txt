@@ -1,0 +1,3 @@
+Your password is: test_pass
+Your secret Key is: test_key
+Your encrypted password is: oyLtpDW6NsroQ3/peBuGjQ==
